@@ -9,7 +9,7 @@ An interactive sales analysis dashboard built in **Microsoft Excel** to explore 
 This dashboard analyzes sales data from 1,000 orders, presenting clear visual insights into:
 - Revenue by occasion, product category, hour, and month
 - Top-performing products and cities
-- Customer spending behavior
+- Customer spending behavior  
 - Sales seasonality and order patterns
 
 ---
